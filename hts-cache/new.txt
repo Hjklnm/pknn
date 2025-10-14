@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:40:55	14750/14750	---M--	200	added ('OK')	text/html	etag:%22099feca6a50db1:0%22	https://dappscon.org/en.htm	C:/Users/philip%20godwin/Desktop/goddy/aahttps___dappscon.org_en.htm/dappscon.org/en.html	(from )
+03:40:56	1245/1245	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2014%20Oct%202025%2010:40:58%20GMT	https://dappscon.org/robots.txt		(from )
