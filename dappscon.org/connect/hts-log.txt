@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Oct 2025 03:00:07 at https://dappscon.org/connect/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dappscon.org/connect/index.html -O1 "C:\Users\philip godwin\Desktop\goddy\AAAAA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:02:51	Error: 	"Not Found" (404) at link https://dappscon.org/icon.png (from https://dappscon.org/connect/index.html)
+03:03:01	Error: 	"Not Found" (404) at link https://dappscon.org/connect/sent.html (from https://dappscon.org/connect/index.html)
+03:03:01	Error: 	"Not Found" (404) at link https://dappscon.org/connect/account.js (from https://dappscon.org/connect/index.html)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-solid-900.eot (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-solid-900.eot? (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-solid-900.woff2 (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Warning: 	Retry after error -4 (Connect Error) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-solid-900.woff (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-solid-900.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-solid-900.svg (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-regular-400.eot (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-regular-400.eot? (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-regular-400.woff2 (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-regular-400.woff (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-regular-400.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-regular-400.svg (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Roboto/Roboto-Thin.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Roboto/Roboto-Light.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Roboto/Roboto-Regular.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Roboto/Roboto-Medium.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Roboto/Roboto-Bold.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Roboto/Roboto-Black.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Euclid/EuclidCircularB-Regular-WebXL.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Euclid/EuclidCircularB-RegularItalic-WebXL.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/Euclid/EuclidCircularB-Bold-WebXL.ttf (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:03:58	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/images/icons/swap.svg (from https://dappscon.org/connect/main/view/others/css/style.css)
+03:04:02	Error: 	"Not Found" (404) at link https://dappscon.org/connect/main/view/others/css/fonts/fontawesome/fa-solid-900.woff (from https://dappscon.org/connect/main/view/others/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 55 seconds : 112 links scanned, 85 files written (3114601 bytes overall) [3169658 bytes received at 13487 bytes/sec]
+(25 errors, 1 warnings, 0 messages)
